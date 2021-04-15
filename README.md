@@ -14,12 +14,12 @@ Work on this plss!!!
 - ⚡ Fun fact: ...
 -->
 
-##  Software Engineer
-##  Indianapolis Based, Remote Friendly 😄
+###  Software Engineer
+###  Indianapolis, IN Based, Remote Friendly 😄
 
-#   I like to build projects that help me deal with problems.  If something is boring, repetitive,   or tedious, you bet I'm trying to fix it with my skills.  
+#   I like to build projects that help fix problems.  If something is boring, repetitive, or tedious, you bet I'm trying to fix it with my skills & knowledge.  
 *   I like: *JavasCript*, *Python*, *HTML/CSS*, *SQL*, *React & Redux*, *Express*
 *   Learning: *TypeScript*, *Go*, *AWS*
 *   Hobbies: *Cooking*, *Gardening*, *Exercise*, *Building and Soldering 🤖*
 
-#   **Questions? Comments? Compliments? Reach out through my [LinkedIn!](https://www.linkedin.com/in/lasj)**
+###   **Questions? Comments? Compliments? Reach out through my [LinkedIn!](https://www.linkedin.com/in/lasj)**
