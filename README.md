@@ -17,8 +17,9 @@ Work on this plss!!!
 ##  Software Engineer
 ##  Indianapolis Based, Remote Friendly 😄
 
-#   I like to build projects that help me deal with problems.  If something is boring, repetitive,   
-#   or tedious, you bet I'm trying to fix it with my skills.  
-*   I like: *JavasCript*, *Python*, *HTML/CSS*, *SQL*, *React & Redux*, *Express*/
+#   I like to build projects that help me deal with problems.  If something is boring, repetitive,   or tedious, you bet I'm trying to fix it with my skills.  
+*   I like: *JavasCript*, *Python*, *HTML/CSS*, *SQL*, *React & Redux*, *Express*
 *   Learning: *TypeScript*, *Go*, *AWS*
-*   Hobbies: *Cooking*, *Gardening*, *Exercise*, *Building and Soldering 🤖 *
+*   Hobbies: *Cooking*, *Gardening*, *Exercise*, *Building and Soldering 🤖*
+
+#   **Questions? Comments? Compliments? Reach out through my [LinkedIn!](https://www.linkedin.com/in/lasj)**
