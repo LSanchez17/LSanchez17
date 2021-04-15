@@ -1,5 +1,3 @@
-### Hi there 🙂
-
 <!--
 **LSanchez17/LSanchez17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Work on this plss!!!
@@ -13,9 +11,7 @@ Work on this plss!!!
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<image src="https://giphy.com/gifs/southparkgifs-l3vRd3vZPrApPqzjq" width="480" height="338"  allowFullScreen>
-  
+### Hi there 🙂  
 ###  Software Engineer
 ###  Indianapolis, IN Based, Remote Friendly 😄
 
