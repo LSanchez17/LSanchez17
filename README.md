@@ -13,7 +13,8 @@ Work on this plss!!!
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<image src="https://giphy.com/embed/l3vRd3vZPrApPqzjq" width="480" height="338"  allowFullScreen>
+  
 ###  Software Engineer
 ###  Indianapolis, IN Based, Remote Friendly 😄
 
