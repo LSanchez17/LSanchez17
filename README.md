@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hi there 🙂
 
 <!--
 **LSanchez17/LSanchez17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Work on this plss!!!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##  Software Engineer
+##  Indianapolis Based, Remote Friendly 😄
+
+#   I like to build projects that help me deal with problems.  If something is boring, repetitive,   
+#   or tedious, you bet I'm trying to fix it with my skills.  
+*   I like: *JavasCript*, *Python*, *HTML/CSS*, *SQL*, *React & Redux*, *Express*/
+*   Learning: *TypeScript*, *Go*, *AWS*
+*   Hobbies: *Cooking*, *Gardening*, *Exercise*, *Building and Soldering 🤖 *
