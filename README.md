@@ -13,6 +13,6 @@ Put a header down there, dont forget
 *   Learning: *TypeScript*, *Go*, *AWS*
 *   Hobbies: *Cooking*, *Gardening*, *Exercise*, *Building and Soldering 🤖*
 
-###   **Questions? Comments? Compliments? Opportunities? Reach out on my [LinkedIn!](https://www.linkedin.com/in/lasj)**
+###   **Questions? Comments? Compliments? Opportunities? Reach out on my [LinkedIn!](https://www.linkedin.com/in/lasj), or Tweet me [@LuisDoesSE](https://twitter.com/LuisDoesSE)**
 
 ### *And in case I don’t see you, good afternoon, good evening and good night!*
