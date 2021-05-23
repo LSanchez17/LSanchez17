@@ -4,14 +4,13 @@ Put a header down there, dont forget
 -->
 
 ### Hi there 🙂  
-###  Software Engineer
+###  Software Engineer 👨‍💻
 ###  Indianapolis, IN Based, Remote Friendly 😄
 
 #   I like to build projects that help fix problems.  If something is boring, repetitive, or tedious, you bet I'm trying to fix it with my skills & knowledge.  
 
 *   Tech: *Python*, *JavaScript*, *HTML/CSS*, *SQL*, *React*, *Express*, *Flask*
-*   Learning: *TypeScript*, *Go*, *AWS*
-*   Hobbies: *Cooking*, *Gardening*, *Exercise*, *Building and Soldering 🤖*
+*   Hobbies: *Cooking*, *Gardening*, *Exercise*, *Tinkering with Arduino*
 
 ###   **Questions? Comments? Compliments? Opportunities? Reach out on my [LinkedIn!](https://www.linkedin.com/in/lasj), or Tweet me [@LuisDoesSE](https://twitter.com/LuisDoesSE)**
 
