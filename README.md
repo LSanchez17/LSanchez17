@@ -6,7 +6,7 @@ Put a header down there, dont forget
 ### Hi there 🙂  
 ###  Software Engineer 👨‍💻-Indianapolis, IN-Remote Friendly 😄
 
-#   I'm a software engineer who likes to create solutions to problems.  From keeping track of a menagerie of plants, to figuring out if my dog can eat something, using the power of technology to solve these pressing tasks is what I excel at. 
+#   I'm a software engineer who likes a good challenge.
 
 *   Tech: *Python*, *JavaScript*, *HTML/CSS*, *SQL*, *React*, *Express*, *Flask*, *Tailwind*
 *   Hobbies: *Cooking*, *Gardening*, *Exercise*, *Tinkering with Arduino*
