@@ -8,8 +8,7 @@ Put a header down there, dont forget
 
 #   I'm a software engineer who likes a good challenge.
 
-*   Tech: *Python*, *JavaScript*, *HTML/CSS*, *SQL*, *React*, *Express*, *Flask*, *Tailwind*
-*   Hobbies: *Cooking*, *Gardening*, *Exercise*, *Tinkering with Arduino*
+*   Hobbies: *Cooking*, *Gardening*, *Exercise*, *Tinkering*
 
 ###   **Questions? Comments? Compliments? Opportunities? Reach out on my [LinkedIn](https://www.linkedin.com/in/lasj), or Tweet me [@LuisDoesSE](https://twitter.com/LuisDoesSE)**
 ###   **Feel free to check out my evolving portfolio --> [ClickMe!](https://luis-portfolio.vercel.app/)
